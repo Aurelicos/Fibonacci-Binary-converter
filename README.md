@@ -6,7 +6,7 @@ Base description:
 
 - first the program writes all Fibonacci numbers up to 4,000,000 and during that time it writes all these numbers in the List named firstAnswer
 ```C#
- int a = 0, b = 1, c, i;
+int a = 0, b = 1, c, i;
 Console.WriteLine(a);
 Console.WriteLine(b);
 List<int> firstAnswer = new List<int> { 0, 1 };
